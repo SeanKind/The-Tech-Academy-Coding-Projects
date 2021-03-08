@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\bin\Debug\Drill 26 File.IO.exe.config
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\bin\Debug\Drill 26 File.IO.exe
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\bin\Debug\Drill 26 File.IO.pdb
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\obj\Debug\Drill 26 File.IO.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\obj\Debug\Drill 26 File.IO.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\obj\Debug\Drill 26 File.IO.exe
+C:\Users\Sean\source\repos\Drill 26 File.IO\Drill 26 File.IO\obj\Debug\Drill 26 File.IO.pdb

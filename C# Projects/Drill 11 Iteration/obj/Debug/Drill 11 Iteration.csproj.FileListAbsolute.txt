@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\bin\Debug\Drill 11 Iteration.exe.config
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\bin\Debug\Drill 11 Iteration.exe
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\bin\Debug\Drill 11 Iteration.pdb
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\obj\Debug\Drill 11 Iteration.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\obj\Debug\Drill 11 Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\obj\Debug\Drill 11 Iteration.exe
+C:\Users\Sean\source\repos\Drill 11 Iteration\Drill 11 Iteration\obj\Debug\Drill 11 Iteration.pdb

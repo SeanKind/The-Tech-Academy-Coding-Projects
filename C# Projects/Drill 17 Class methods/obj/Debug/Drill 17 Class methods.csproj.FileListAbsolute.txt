@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\bin\Debug\Drill 17 Class methods.exe.config
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\bin\Debug\Drill 17 Class methods.exe
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\bin\Debug\Drill 17 Class methods.pdb
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\obj\Debug\Drill 17 Class methods.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\obj\Debug\Drill 17 Class methods.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\obj\Debug\Drill 17 Class methods.exe
+C:\Users\Sean\source\repos\Drill 17 Class methods\Drill 17 Class methods\obj\Debug\Drill 17 Class methods.pdb

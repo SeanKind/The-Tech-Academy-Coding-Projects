@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\bin\Debug\Drill 13 Class Methods.exe.config
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\bin\Debug\Drill 13 Class Methods.exe
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\bin\Debug\Drill 13 Class Methods.pdb
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\obj\Debug\Drill 13 Class Methods.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\obj\Debug\Drill 13 Class Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\obj\Debug\Drill 13 Class Methods.exe
+C:\Users\Sean\source\repos\Drill 13 Class Methods\Drill 13 Class Methods\obj\Debug\Drill 13 Class Methods.pdb

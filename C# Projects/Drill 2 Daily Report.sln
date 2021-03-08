@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drill 2 Daily Report", "Drill 2 Daily Report\Drill 2 Daily Report.csproj", "{A8464C77-B3D0-408E-92EF-7970C8B3231A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8464C77-B3D0-408E-92EF-7970C8B3231A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8464C77-B3D0-408E-92EF-7970C8B3231A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8464C77-B3D0-408E-92EF-7970C8B3231A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8464C77-B3D0-408E-92EF-7970C8B3231A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937FA83C-1E41-4581-8705-DE66B25132AC}
+	EndGlobalSection
+EndGlobal

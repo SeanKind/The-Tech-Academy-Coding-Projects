@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\bin\Debug\Drill 12 Exceptions.exe.config
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\bin\Debug\Drill 12 Exceptions.exe
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\bin\Debug\Drill 12 Exceptions.pdb
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\obj\Debug\Drill 12 Exceptions.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\obj\Debug\Drill 12 Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\obj\Debug\Drill 12 Exceptions.exe
+C:\Users\Sean\source\repos\Drill 12 Exceptions\Drill 12 Exceptions\obj\Debug\Drill 12 Exceptions.pdb

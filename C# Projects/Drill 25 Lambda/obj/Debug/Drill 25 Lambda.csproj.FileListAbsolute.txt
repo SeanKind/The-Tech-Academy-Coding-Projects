@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\bin\Debug\Drill 25 Lambda.exe.config
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\bin\Debug\Drill 25 Lambda.exe
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\bin\Debug\Drill 25 Lambda.pdb
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\obj\Debug\Drill 25 Lambda.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\obj\Debug\Drill 25 Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\obj\Debug\Drill 25 Lambda.exe
+C:\Users\Sean\source\repos\Drill 25 Lambda\Drill 25 Lambda\obj\Debug\Drill 25 Lambda.pdb

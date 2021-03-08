@@ -1,0 +1,11 @@
+p {
+	color: red;
+	background-color: black;
+	font-size: small;
+	text-align: center;
+}
+.shadow {
+	background-color: black;
+}
+h2 {
+	text-shadow: 2px 2px #1fcf4e

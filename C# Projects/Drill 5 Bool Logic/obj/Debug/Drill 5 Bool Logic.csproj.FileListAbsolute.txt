@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\bin\Debug\Drill 5 Bool Logic.exe.config
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\bin\Debug\Drill 5 Bool Logic.exe
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\bin\Debug\Drill 5 Bool Logic.pdb
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\obj\Debug\Drill 5 Bool Logic.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\obj\Debug\Drill 5 Bool Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\obj\Debug\Drill 5 Bool Logic.exe
+C:\Users\Sean\source\repos\Drill 5 Bool Logic\Drill 5 Bool Logic\obj\Debug\Drill 5 Bool Logic.pdb

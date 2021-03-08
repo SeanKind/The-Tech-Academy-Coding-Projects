@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\bin\Debug\Drill 8 Strings.exe.config
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\bin\Debug\Drill 8 Strings.exe
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\bin\Debug\Drill 8 Strings.pdb
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\obj\Debug\Drill 8 Strings.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\obj\Debug\Drill 8 Strings.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\obj\Debug\Drill 8 Strings.exe
+C:\Users\Sean\source\repos\Drill 8 Strings\Drill 8 Strings\obj\Debug\Drill 8 Strings.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\bin\Debug\Drill 2 Daily Report.exe.config
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\bin\Debug\Drill 2 Daily Report.exe
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\bin\Debug\Drill 2 Daily Report.pdb
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\obj\Debug\Drill 2 Daily Report.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\obj\Debug\Drill 2 Daily Report.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\obj\Debug\Drill 2 Daily Report.exe
+C:\Users\Sean\source\repos\Drill 2 Daily Report\Drill 2 Daily Report\obj\Debug\Drill 2 Daily Report.pdb

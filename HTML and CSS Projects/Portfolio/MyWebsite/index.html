@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+   
+    <!-- Head -->
+    <head>
+        <meta charset="utf-8">
+        <title>Sean's Portfolio</title>
+        <link rel="stylesheet" type="text/css" href="MyWebsite.css">
+        <script src="MyWebsite.js"></script>
+        <script src="jquery-3.4.1.js"></script>
+        
+    </head>
+    <!-- Body -->
+    <body class="Background">
+    <script>
+        document.body.className += ' fade-out';
+        $(function() {
+            $('body').removeClass('fade-out');
+        }
+    );    
+    </script>
+
+    <!-- NavBar -->
+        <div class="Navbar">
+            <a class="active" href="#Home">Home</a>
+            <a href="#Slideshow">Slideshow</a>
+            <a href="#About">About</a>
+            <a href="#GitHub">GitHub</a>
+            <a onclick="openForm()">Contact</a>
+        </div>
+    <!-- Close form -->
+    <div class="btn cancel" onclick="closeForm()"></div>
+
+    <!-- Home -->
+        <div id="Home">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        
+            
+
+    <!-- Video -->
+        <video autoplay muted loop id="CodeVideo">
+            <source src="video.mp4" type="video/mp4">
+                Your browser does not support HTML5 video. 
+        </video>
+    </div>
+
+    <!-- Video Text -->
+    <div class="Video_Text">
+        <h1 style="color: white;">Sean's Portfolio</h1>
+            <p>
+                <strong>
+                    <center>
+                        <q>When you don't create things, you become defined by your tastes rather than ability. 
+                        <br>Your tastes only narrow & exclude people. 
+                        <br>So create.
+                        </q>
+                        <br>-Jonathan Gillette<br>
+                        <br>
+                        My name is Sean. Welcome to my portfolio website. On it, I will tell you about my background and experience.<br>
+                        <br>Thank you for stopping by and enjoy!
+                    </center>
+                </strong>
+            </p>
+    </div>
+    <!-- Slideshow Section -->
+    <div id="Slideshow">
+        <div id="Slideshow_Background">
+            <div id="Slideshow_Container">
+
+
+                <div class="mySlides fade">
+                    <div class="Slide_Number">1 / 6</div>
+                        <img class="Slide_Show_Images" src="mesquare.jpg" style="width:100%;">
+                            <div class="text">I'm available to assist you on your project!</div>
+                </div>
+                <div class="mySlides fade">
+                    <div class="Slide_Number">2 / 6</div>
+                        <img class="Slide_Show_Images" src="HTML_CSS_and_JavaScript.jpeg" style="width:100%;">
+                            <div class="text">I am a full-stack software developer,<br> trained in:<br>HTML, CSS, JavaScript,</div>
+                </div>
+                <div class="mySlides fade">
+                    <div class="Slide_Number">3 / 6</div>
+                        <img class="Slide_Show_Images" src="Python.png" style="width:100%;">
+                            <div class="text">the popular programming language Python,</div>
+                </div>
+                <div class="mySlides fade">
+                    <div class="Slide_Number">4 / 6</div>
+                        <img class="Slide_Show_Images" src="C_Sharp_and_Dot_NET.png" style="width:100%;">
+                            <div class="text">C#, .NET Framework, ASP.NET, MVC,</div>
+                </div>
+                <div class="mySlides fade">
+                    <div class="Slide_Number">5 / 6</div>
+                        <img class="Slide_Show_Images" src="SQL_and_Database.jpg" style="width:100%;">
+                            <div class="text">back end development, databases and SQL.</div>
+                </div>
+                <div class="mySlides fade">
+                    <div class="Slide_Number">6 / 6</div>
+                        <img class="Slide_Show_Images" src="Coding_1.jpg" style="width:100%;">
+                            <div class="text">
+                                <a onclick="openForm()" href="#Contact" style="color: white;">Contact me now!</a>
+                            </div>
+                </div>
+                    <a class="Previous" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="Next" onclick="plusSlides(1)">&#10095;</a>
+                
+
+
+
+
+
+
+
+
+            </div>
+        <br>
+            <div style="text-align:center">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+                <span class="dot" onclick="currentSlide(4)"></span>
+                <span class="dot" onclick="currentSlide(5)"></span>
+                <span class="dot" onclick="currentSlide(6)"></span>
+            
+            
+            </div>
+        </div>
+    </div>
+    <script>
+        var slideIndex = 1;
+            showSlides(slideIndex);
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+                if (n > slides.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = slides.length}
+                    for (i = 0; i < slides.length; i++) {
+                        slides[i].style.display = "none";
+                    }
+                    for (i = 0; i < dots.length; i++) {
+                        dots[i].className = dots[i].className.replace(" active", "")
+                    }
+                slides[slideIndex-1].style.display = "block";
+                dots[slideIndex-1].className += " active";
+        }
+    
+    </script>
+
+
+
+
+
+
+
+
+
+    <!-- About Section -->
+    <div class="Row" id="About">
+        <div class="Column_2">
+            <img src="Development.jpg" alt="Laptop">
+        </div>
+
+        <div class="Column_1"><br>
+            <h1>About me</h1>
+                <p>I am a software developer who loves programming! While im not spending copious amounts of hours programming or gaming, I get out and enjoy beautiful Colorado. <br><br>I will be graduating from <a href="https://www.learncodinganywhere.com" target="_blank">The Tech Academy</a>'s Software Developer Boot Camp, and will be trained and experienced in the following web and programming languages: HTML, CSS, JavaScript, SQL, C# and more.<br><br>I will be a full-stack developer and would love to work with you on your project. <a href="#Contact">Contact</a> me below!</p>
+        </div>
+    </div>
+
+    <!-- GitHub Section -->
+    <div class="Row" id="GitHub">
+        <div class="Column_1"><br><br><br><br><br>
+            <h1>GitHub</h1>
+                <p><center>You can view my coding projects on my GitHub profile here:</center><br>
+                <center><a href="https://github.com/SeanKind" target="_blank">My GitHub</a></center></p>
+        </div>
+
+        <div class="Column_2"><br>
+            <a href="https://github.com/SeanKind" target="_blank"><img src="GitHub.png" alt="GitHub"></a>
+        </div>
+    </div>
+
+    <!-- Contact column section 
+    <div class="Row" id="Contact">
+        <div class="Column_3">
+            <img src="Contact.jpg" alt="Contact_Image">
+        </div>
+
+        <div class="Column_1">
+            <h1>Contact</h1>
+                <form action="" method="GET">
+                    <label>Name:</label>
+                        <input type="text" placeholder="Please enter your name">
+                    <label>Email:</label>
+                        <input type="text" id="Email" name="Email" placeholder="Please enter your email">
+                    <label>Message:</label>
+                        <input type="text" id="Message" name="Message" placeholder="Please write your message">
+                        <input type="submit" value="Submit">
+                </form>
+        </div>
+    </div>
+    -->
+
+    <div id="Contact">
+        <button onclick="openForm()" class="Pop_Up_Button"> CONTACT </button>
+            <div class="form-popup" id="myForm">
+                <form action="https://formspree.io/xpzzljkg" method="POST" class="form-container">
+                <h1>Contact</h1>
+                    <label for="name"><b>Name</b></label>
+                        <input type="text" placeholder="Type your name here" name="name" required>
+                    <label for="phone"><b>Phone</b></label>
+                        <input type="text" placeholder="Enter your phone number here" name="phone">
+                    <label for="email"><b>Email</b></label>
+                        <input type="text" placeholder="Type your email address here" name="email" required>
+                    <label for="message"><b>Message</b></label>
+                        <input type="text" placeholder="Type your message here" name="message">
+
+
+            <button type="submit" class="btn">SUBMIT</button>
+            <button type="button" class="btn cancel" onclick="closeForm()">CLOSE</button>
+                </form>
+            </div>
+    </div>
+
+
+
+
+
+    <!-- Footer Section -->
+    <footer>
+        <p>
+            <center>&copy Prosper Consulting Inc., <a href="https://learncodinganywhere.com/">The Tech Academy</a></center><br>
+        </p>
+    </footer>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\bin\Debug\Drill 28 Additional features.exe.config
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\bin\Debug\Drill 28 Additional features.exe
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\bin\Debug\Drill 28 Additional features.pdb
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\obj\Debug\Drill 28 Additional features.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\obj\Debug\Drill 28 Additional features.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\obj\Debug\Drill 28 Additional features.exe
+C:\Users\Sean\source\repos\Drill 28 Additional features\Drill 28 Additional features\obj\Debug\Drill 28 Additional features.pdb

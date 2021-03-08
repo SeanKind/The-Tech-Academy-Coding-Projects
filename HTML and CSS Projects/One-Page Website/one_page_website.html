@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<title>The Denver Zoo!</title>
+			<meta charset="utf-8">
+			<link rel="stylesheet" href="one_page_website.css">
+			<script src="one_page_website.js"></script>
+		</head>
+		<body id="b">
+			<script>document.body.className += ' fade-out';</script>
+			<!-- Header -->
+			<section id="home">
+				<h1>Welcome to the Denver Zoo!</h1>
+				<p>We have many animals for you to visit and learn about!<br>Please take your time to look at photo's and video's of our assorted animals!</p>
+			</section>
+			<!-- Nav Element -->
+			<section>
+				<nav>
+					<a href="#home">HOME</a> |
+					<a href="#pic">PICTURES</a> |
+					<a href="#contact">CONTACT</a> |
+					<a href="#vid">VIDEOS</a> |
+					<a href="#footer">FOOTER</a>
+				</nav>
+			</section>
+			<!-- Pictures -->
+			<section id="pic">
+			<h1>Please take a look at the beautiful animals here at the Denver zoo!</h1>
+				<div class="row">
+					<div>
+						<img src="monkey.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow" alt="Our monkeys!"><br>
+					</div>
+					<div>
+						<img src="rhino.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow"  alt="Our rhino!"><br>
+					</div>
+					<div>
+						<img src="giraffe.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow" alt="Our giraffe!"><br>
+					</div>
+				</div>
+
+				<div id="myModal" class="modal">
+					<span class="close cursor" onclick="closeModal()">&times;</span>
+					<div class="modal-content">
+
+						<div class="mySlides">
+							<div class="numbertext"> 1 / 3</div>
+							<img src="monkey.jpg" style="width: 100%">
+						</div>
+
+						<div class="mySlides">
+							<div class="numbertext"> 2 / 3</div>
+							<img src="rhino.jpg" style="width: 100%">
+						</div>
+
+						<div class="mySlides">
+							<div class="numbertext"> 3 / 3</div>
+							<img src="giraffe.jpg" style="width: 100%">
+						</div>
+
+						<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+						<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+						<div class="caption-container">
+							<p id="caption"></p>
+						</div>
+
+						<div class="column">
+							<img class="demo" src="monkey.jpg" onclick="currentSlide(1)" alt="Monkey!">
+						</div>
+
+						<div class="column">
+							<img class="demo" src="rhino.jpg" onclick="currentSlide(2)" alt="Rhino!">
+						</div>
+						
+						<div class="column">
+							<img class="demo" src="giraffe.jpg" onclick="currentSlide(3)" alt="giraffe!">
+						</div>
+
+
+					</div>
+				</div>
+
+
+
+			</section>
+			<!-- Contact -->
+			<section id="contact">
+			<h3>Please dont hesitate to contact us to see more photos of our wonderful animals!</h3>
+			<p>If you wish to see more photo's, please fill out the contact form so we are able to get in touch.</p>
+				<!-- Contact form -->
+				<div class="form">
+					<form action="" method="get">
+						<input type="text" name="name" placeholder="Name"><br>
+						<input type="email" name="email" placeholder="Email"><br>
+						<div class="form-submit"></div>
+							<input type="submit" value="submit">
+						</div>
+					</form>	
+				</div>
+			</section>
+			<br><br><br><br><br>
+			<!-- Videos -->
+			<section id="vid">
+				<h1>Here are some videos of our adorable animals in case the photos were not enough for you!</h1>
+				<p>If you want anything closer than this, please come visit us here in denver!</p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/_n9axTa5q0M" 
+					frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/xGAResGOReI" 
+					frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/dreS8wlN46E"
+					frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</section>
+			<!-- Footer -->
+			<section id="footer">
+				<footer>
+					<h2>Created by Sean C</h2>
+					<p>Videos from <a href="https://www.youtube.com/channel/UCzlJHwWxz2INhrSbLlK4xRQ">Denver Zoo's</a> Youtube channel</p>
+						<nav>
+							<!-- Second Nav Function -->
+							<a href="#home">HOME</a> |
+							<a href="#pic">PICTURES</a> |
+							<a href="#contact">CONTACT</a> |
+							<a href="#vid">VIDEOS</a> |
+							<a href="#footer">FOOTER</a>
+						</nav>
+				</footer>
+			</section>
+		</body>
+	</html>

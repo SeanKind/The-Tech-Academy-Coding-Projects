@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\bin\Debug\Drill 6 Package Express.exe.config
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\bin\Debug\Drill 6 Package Express.exe
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\bin\Debug\Drill 6 Package Express.pdb
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\obj\Debug\Drill 6 Package Express.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\obj\Debug\Drill 6 Package Express.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\obj\Debug\Drill 6 Package Express.exe
+C:\Users\Sean\source\repos\Drill 6 Package Express\Drill 6 Package Express\obj\Debug\Drill 6 Package Express.pdb

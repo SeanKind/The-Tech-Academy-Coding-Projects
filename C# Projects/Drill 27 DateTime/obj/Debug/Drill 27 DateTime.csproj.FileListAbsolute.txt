@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\bin\Debug\Drill 27 DateTime.exe.config
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\bin\Debug\Drill 27 DateTime.exe
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\bin\Debug\Drill 27 DateTime.pdb
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\obj\Debug\Drill 27 DateTime.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\obj\Debug\Drill 27 DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\obj\Debug\Drill 27 DateTime.exe
+C:\Users\Sean\source\repos\Drill 27 DateTime\Drill 27 DateTime\obj\Debug\Drill 27 DateTime.pdb

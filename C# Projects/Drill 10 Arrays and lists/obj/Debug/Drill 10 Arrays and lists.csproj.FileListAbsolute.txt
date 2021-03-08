@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\bin\Debug\Drill 10 Arrays and lists.exe.config
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\bin\Debug\Drill 10 Arrays and lists.exe
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\bin\Debug\Drill 10 Arrays and lists.pdb
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\obj\Debug\Drill 10 Arrays and lists.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\obj\Debug\Drill 10 Arrays and lists.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\obj\Debug\Drill 10 Arrays and lists.exe
+C:\Users\Sean\source\repos\Drill 10 Arrays and lists\Drill 10 Arrays and lists\obj\Debug\Drill 10 Arrays and lists.pdb

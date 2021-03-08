@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\bin\Debug\Drill 3 Math User Input.exe.config
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\bin\Debug\Drill 3 Math User Input.exe
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\bin\Debug\Drill 3 Math User Input.pdb
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\obj\Debug\Drill 3 Math User Input.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\obj\Debug\Drill 3 Math User Input.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\obj\Debug\Drill 3 Math User Input.exe
+C:\Users\Sean\source\repos\Drill 3 Math User Input\Drill 3 Math User Input\obj\Debug\Drill 3 Math User Input.pdb

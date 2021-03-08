@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\obj\Debug\Drill 21 Overloaded operators.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\obj\Debug\Drill 21 Overloaded operators.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\bin\Debug\Drill 21 Overloaded operators.exe.config
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\bin\Debug\Drill 21 Overloaded operators.exe
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\bin\Debug\Drill 21 Overloaded operators.pdb
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\obj\Debug\Drill 21 Overloaded operators.exe
+C:\Users\Sean\source\repos\Drill 21 Overloaded operators\Drill 21 Overloaded operators\obj\Debug\Drill 21 Overloaded operators.pdb

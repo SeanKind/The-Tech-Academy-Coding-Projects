@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\bin\Debug\Drill 23 Enums.exe.config
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\bin\Debug\Drill 23 Enums.exe
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\bin\Debug\Drill 23 Enums.pdb
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\obj\Debug\Drill 23 Enums.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\obj\Debug\Drill 23 Enums.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\obj\Debug\Drill 23 Enums.exe
+C:\Users\Sean\source\repos\Drill 23 Enums\Drill 23 Enums\obj\Debug\Drill 23 Enums.pdb

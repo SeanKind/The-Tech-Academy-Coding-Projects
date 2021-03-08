@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drill 14 Methods and overloads", "Drill 14 Methods and overloads\Drill 14 Methods and overloads.csproj", "{FAF1B5E5-3497-4723-9BB1-133CC312F9D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF1B5E5-3497-4723-9BB1-133CC312F9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF1B5E5-3497-4723-9BB1-133CC312F9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF1B5E5-3497-4723-9BB1-133CC312F9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF1B5E5-3497-4723-9BB1-133CC312F9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0BF02C4-0844-4E25-B353-79F62E621569}
+	EndGlobalSection
+EndGlobal

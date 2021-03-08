@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\bin\Debug\Drill 7 Do's and while's.exe.config
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\bin\Debug\Drill 7 Do's and while's.exe
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\bin\Debug\Drill 7 Do's and while's.pdb
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\obj\Debug\Drill 7 Do's and while's.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\obj\Debug\Drill 7 Do's and while's.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\obj\Debug\Drill 7 Do's and while's.exe
+C:\Users\Sean\source\repos\Drill 7 Do's and while's\Drill 7 Do's and while's\obj\Debug\Drill 7 Do's and while's.pdb

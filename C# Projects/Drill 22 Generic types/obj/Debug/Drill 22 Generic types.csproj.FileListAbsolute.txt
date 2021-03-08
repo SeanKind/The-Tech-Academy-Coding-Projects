@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\bin\Debug\Drill 22 Generic types.exe.config
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\bin\Debug\Drill 22 Generic types.exe
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\bin\Debug\Drill 22 Generic types.pdb
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\obj\Debug\Drill 22 Generic types.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\obj\Debug\Drill 22 Generic types.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\obj\Debug\Drill 22 Generic types.exe
+C:\Users\Sean\source\repos\Drill 22 Generic types\Drill 22 Generic types\obj\Debug\Drill 22 Generic types.pdb

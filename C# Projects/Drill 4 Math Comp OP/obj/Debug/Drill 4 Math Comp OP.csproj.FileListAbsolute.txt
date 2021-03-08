@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\bin\Debug\Drill 4 Math Comp OP.exe.config
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\bin\Debug\Drill 4 Math Comp OP.exe
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\bin\Debug\Drill 4 Math Comp OP.pdb
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\obj\Debug\Drill 4 Math Comp OP.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\obj\Debug\Drill 4 Math Comp OP.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\obj\Debug\Drill 4 Math Comp OP.exe
+C:\Users\Sean\source\repos\Drill 4 Math Comp OP\Drill 4 Math Comp OP\obj\Debug\Drill 4 Math Comp OP.pdb

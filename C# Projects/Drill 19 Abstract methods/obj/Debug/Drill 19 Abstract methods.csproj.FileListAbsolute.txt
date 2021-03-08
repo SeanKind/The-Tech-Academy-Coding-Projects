@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\bin\Debug\Drill 19 Abstract methods.exe.config
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\bin\Debug\Drill 19 Abstract methods.exe
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\bin\Debug\Drill 19 Abstract methods.pdb
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\obj\Debug\Drill 19 Abstract methods.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\obj\Debug\Drill 19 Abstract methods.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\obj\Debug\Drill 19 Abstract methods.exe
+C:\Users\Sean\source\repos\Drill 19 Abstract methods\Drill 19 Abstract methods\obj\Debug\Drill 19 Abstract methods.pdb

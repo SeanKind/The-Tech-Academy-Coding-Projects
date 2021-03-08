@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\bin\Debug\Drill 29 More exception handling.exe.config
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\bin\Debug\Drill 29 More exception handling.exe
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\bin\Debug\Drill 29 More exception handling.pdb
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\obj\Debug\Drill 29 More exception handling.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\obj\Debug\Drill 29 More exception handling.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\obj\Debug\Drill 29 More exception handling.exe
+C:\Users\Sean\source\repos\Drill 29 More exception handling\Drill 29 More exception handling\obj\Debug\Drill 29 More exception handling.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\bin\Debug\Drill 20 Interfaces.exe.config
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\bin\Debug\Drill 20 Interfaces.exe
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\bin\Debug\Drill 20 Interfaces.pdb
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\obj\Debug\Drill 20 Interfaces.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\obj\Debug\Drill 20 Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\obj\Debug\Drill 20 Interfaces.exe
+C:\Users\Sean\source\repos\Drill 20 Interfaces\Drill 20 Interfaces\obj\Debug\Drill 20 Interfaces.pdb

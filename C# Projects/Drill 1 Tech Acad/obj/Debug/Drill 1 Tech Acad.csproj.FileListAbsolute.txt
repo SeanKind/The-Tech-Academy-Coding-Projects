@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\obj\Debug\Drill 1 Tech Acad.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\obj\Debug\Drill 1 Tech Acad.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\bin\Debug\Drill 1 Tech Acad.exe.config
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\bin\Debug\Drill 1 Tech Acad.exe
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\bin\Debug\Drill 1 Tech Acad.pdb
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\obj\Debug\Drill 1 Tech Acad.exe
+C:\Users\Sean\source\repos\Drill 1 Tech Acad\Drill 1 Tech Acad\obj\Debug\Drill 1 Tech Acad.pdb

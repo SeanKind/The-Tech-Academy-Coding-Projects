@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\bin\Debug\Drill 24 Structs.exe.config
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\bin\Debug\Drill 24 Structs.exe
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\bin\Debug\Drill 24 Structs.pdb
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\obj\Debug\Drill 24 Structs.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\obj\Debug\Drill 24 Structs.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\obj\Debug\Drill 24 Structs.exe
+C:\Users\Sean\source\repos\Drill 24 Structs\Drill 24 Structs\obj\Debug\Drill 24 Structs.pdb
